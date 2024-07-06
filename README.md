@@ -4,7 +4,7 @@ This is implementation for the paper "Prompt When the Animal is: Temporal Animal
 [ArXiv](https://arxiv.org/abs/2405.05523). Our Port is built on top of the classic [VSLNet](https://arxiv.org/abs/2004.13931).
 
 <p align = "center"> 
-<img src="figures/overview.jpg"  width="60%"/>
+<img src="figures/overview.jpg"  width="20%"/>
 </p>
 
 
